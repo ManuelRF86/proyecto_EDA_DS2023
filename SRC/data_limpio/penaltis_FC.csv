@@ -1,0 +1,361 @@
+,Equipo,penaltis_contra,Temporada,penaltis
+0,RCD Mallorca,2,05/06,1
+1,RC Deportivo de Corunha,3,05/06,4
+2,Athletic Bilbao,3,05/06,5
+3,FC Villarreal,3,05/06,7
+4,RCD Espanyol,3,05/06,4
+5,Real Sociedad,4,05/06,5
+6,FC Barcelona,4,05/06,11
+7,Cádiz CF,4,05/06,6
+8,Valência CF,4,05/06,6
+9,Getafe CF,5,05/06,3
+10,Celta de Vigo,5,05/06,5
+11,Sevilla FC,5,05/06,11
+12,Real Bétis,5,05/06,2
+13,CA Osasuna,6,05/06,4
+14,Real Madrid CF,6,05/06,10
+15,Atlético de Madrid,6,05/06,4
+16,Real Zaragoza,7,05/06,2
+17,Málaga CF,7,05/06,2
+18,Racing Santander,8,05/06,3
+19,Deportivo Alavés,10,05/06,5
+20,Levante UD,3,06/07,3
+21,Racing Santander,3,06/07,10
+22,Atlético de Madrid,3,06/07,8
+23,CA Osasuna,3,06/07,4
+24,Real Sociedad,4,06/07,4
+25,Getafe CF,4,06/07,2
+26,RCD Espanyol,5,06/07,3
+27,Real Bétis,5,06/07,4
+28,RCD Mallorca,5,06/07,2
+29,FC Villarreal,5,06/07,2
+30,Valência CF,5,06/07,4
+31,Gimnàstic de Tarragona,5,06/07,4
+32,Sevilla FC,5,06/07,11
+33,FC Barcelona,5,06/07,8
+34,Real Madrid CF,6,06/07,5
+35,RC Deportivo de Corunha,6,06/07,5
+36,Athletic Bilbao,6,06/07,7
+37,Celta de Vigo,7,06/07,5
+38,Real Zaragoza,8,06/07,4
+39,Recreativo de Huelva,9,06/07,7
+40,Real Valladolid CF,3,07/08,4
+41,Valência CF,4,07/08,4
+42,Racing Santander,4,07/08,5
+43,Recreativo de Huelva,4,07/08,1
+44,Real Murcia CF,4,07/08,8
+45,Real Madrid CF,4,07/08,6
+46,Getafe CF,4,07/08,7
+47,Atlético de Madrid,4,07/08,4
+48,RC Deportivo de Corunha,5,07/08,8
+49,RCD Mallorca,5,07/08,4
+50,Real Zaragoza,5,07/08,7
+51,RCD Espanyol,5,07/08,7
+52,FC Villarreal,6,07/08,11
+53,CA Osasuna,7,07/08,3
+54,Athletic Bilbao,7,07/08,4
+55,Real Bétis,7,07/08,5
+56,Sevilla FC,7,07/08,6
+57,UD Almería,8,07/08,6
+58,Levante UD,9,07/08,6
+59,FC Barcelona,11,07/08,7
+60,FC Barcelona,3,08/09,9
+61,UD Almería,3,08/09,5
+62,RCD Espanyol,5,08/09,9
+63,Getafe CF,5,08/09,12
+64,Real Valladolid CF,5,08/09,3
+65,Racing Santander,6,08/09,7
+66,Málaga CF,6,08/09,10
+67,Real Bétis,6,08/09,5
+68,Real Madrid CF,6,08/09,4
+69,FC Villarreal,6,08/09,6
+70,Athletic Bilbao,7,08/09,10
+71,CA Osasuna,7,08/09,4
+72,Sevilla FC,7,08/09,3
+73,RC Deportivo de Corunha,7,08/09,8
+74,CD Numância,8,08/09,9
+75,Recreativo de Huelva,8,08/09,4
+76,Real Sporting de Gijón,9,08/09,7
+77,Valência CF,10,08/09,9
+78,Atlético de Madrid,10,08/09,7
+79,RCD Mallorca,10,08/09,3
+80,FC Barcelona,1,09/10,3
+81,Sevilla FC,1,09/10,5
+82,Getafe CF,1,09/10,6
+83,Real Valladolid CF,2,09/10,2
+84,Real Madrid CF,2,09/10,8
+85,CA Osasuna,2,09/10,3
+86,Real Zaragoza,2,09/10,5
+87,RC Deportivo de Corunha,3,09/10,3
+88,Athletic Bilbao,3,09/10,10
+89,Valência CF,3,09/10,3
+90,Real Sporting de Gijón,4,09/10,6
+91,RCD Mallorca,4,09/10,6
+92,UD Almería,4,09/10,3
+93,CD Tenerife,5,09/10,4
+94,Racing Santander,6,09/10,4
+95,RCD Espanyol,6,09/10,0
+96,Málaga CF,6,09/10,0
+97,Atlético de Madrid,7,09/10,4
+98,Xerez CD,7,09/10,3
+99,FC Villarreal,9,09/10,0
+100,FC Villarreal,2,10/11,4
+101,Real Sociedad,2,10/11,4
+102,CA Osasuna,3,10/11,5
+103,Hércules CF,4,10/11,4
+104,RCD Espanyol,4,10/11,6
+105,Real Madrid CF,4,10/11,12
+106,RC Deportivo de Corunha,4,10/11,5
+107,Real Sporting de Gijón,5,10/11,8
+108,Levante UD,5,10/11,2
+109,Sevilla FC,5,10/11,12
+110,FC Barcelona,5,10/11,5
+111,UD Almería,5,10/11,1
+112,Real Zaragoza,6,10/11,6
+113,Valência CF,7,10/11,3
+114,Atlético de Madrid,7,10/11,5
+115,Athletic Bilbao,8,10/11,11
+116,RCD Mallorca,8,10/11,6
+117,Getafe CF,10,10/11,4
+118,Racing Santander,10,10/11,6
+119,Málaga CF,11,10/11,6
+120,Real Madrid CF,1,11/12,13
+121,Real Sporting de Gijón,2,11/12,3
+122,Valência CF,2,11/12,4
+123,FC Villarreal,2,11/12,10
+124,RCD Mallorca,3,11/12,5
+125,Real Sociedad,4,11/12,1
+126,FC Barcelona,4,11/12,11
+127,Málaga CF,5,11/12,2
+128,Real Zaragoza,5,11/12,6
+129,CA Osasuna,5,11/12,2
+130,Sevilla FC,5,11/12,4
+131,Levante UD,5,11/12,8
+132,Granada CF,5,11/12,4
+133,Atlético de Madrid,6,11/12,6
+134,Getafe CF,6,11/12,3
+135,Racing Santander,6,11/12,4
+136,Real Bétis,7,11/12,3
+137,RCD Espanyol,8,11/12,1
+138,Rayo Vallecano,8,11/12,6
+139,Athletic Bilbao,9,11/12,2
+140,Atlético de Madrid,0,12/13,8
+141,Granada CF,1,12/13,8
+142,Real Madrid CF,3,12/13,9
+143,Real Sociedad,3,12/13,7
+144,RCD Mallorca,4,12/13,3
+145,FC Barcelona,4,12/13,5
+146,RCD Espanyol,5,12/13,4
+147,Málaga CF,5,12/13,5
+148,Real Bétis,6,12/13,4
+149,Getafe CF,6,12/13,4
+150,Celta de Vigo,6,12/13,3
+151,CA Osasuna,6,12/13,1
+152,Real Zaragoza,6,12/13,8
+153,RC Deportivo de Corunha,7,12/13,6
+154,Valência CF,7,12/13,7
+155,Sevilla FC,7,12/13,7
+156,Rayo Vallecano,7,12/13,7
+157,Real Valladolid CF,7,12/13,6
+158,Athletic Bilbao,8,12/13,2
+159,Levante UD,11,12/13,5
+160,Celta de Vigo,2,13/14,3
+161,Getafe CF,3,13/14,3
+162,Atlético de Madrid,3,13/14,10
+163,RCD Espanyol,3,13/14,5
+164,FC Barcelona,3,13/14,12
+165,Málaga CF,4,13/14,3
+166,Athletic Bilbao,4,13/14,8
+167,Rayo Vallecano,5,13/14,9
+168,FC Villarreal,5,13/14,6
+169,Elche CF,5,13/14,5
+170,CA Osasuna,5,13/14,0
+171,Real Madrid CF,6,13/14,6
+172,Real Valladolid CF,6,13/14,2
+173,Real Sociedad,7,13/14,2
+174,Levante UD,7,13/14,7
+175,UD Almería,8,13/14,9
+176,Sevilla FC,8,13/14,10
+177,Real Bétis,8,13/14,2
+178,Valência CF,8,13/14,3
+179,Granada CF,10,13/14,5
+180,RCD Espanyol,1,14/15,4
+181,UD Almería,2,14/15,6
+182,Atlético de Madrid,3,14/15,6
+183,FC Villarreal,3,14/15,2
+184,Athletic Bilbao,3,14/15,5
+185,Granada CF,4,14/15,6
+186,SD Eibar,5,14/15,2
+187,Rayo Vallecano,5,14/15,3
+188,FC Barcelona,5,14/15,7
+189,Real Madrid CF,5,14/15,13
+190,Real Sociedad,6,14/15,3
+191,RC Deportivo de Corunha,6,14/15,7
+192,Málaga CF,6,14/15,6
+193,Córdoba CF,7,14/15,3
+194,Celta de Vigo,7,14/15,6
+195,Getafe CF,8,14/15,2
+196,Sevilla FC,8,14/15,10
+197,Valência CF,8,14/15,7
+198,Levante UD,8,14/15,4
+199,Elche CF,9,14/15,7
+200,Atlético de Madrid,1,15/16,2
+201,FC Barcelona,1,15/16,19
+202,Real Bétis,1,15/16,4
+203,Málaga CF,2,15/16,4
+204,FC Villarreal,3,15/16,3
+205,Sevilla FC,3,15/16,7
+206,RC Deportivo de Corunha,4,15/16,1
+207,SD Eibar,4,15/16,8
+208,UD Las Palmas,4,15/16,5
+209,Valência CF,4,15/16,5
+210,Real Madrid CF,4,15/16,9
+211,Granada CF,5,15/16,7
+212,Celta de Vigo,5,15/16,5
+213,RCD Espanyol,6,15/16,3
+214,Athletic Bilbao,7,15/16,5
+215,Levante UD,7,15/16,2
+216,Real Sociedad,7,15/16,1
+217,Rayo Vallecano,9,15/16,3
+218,Getafe CF,10,15/16,2
+219,Real Sporting de Gijón,10,15/16,2
+220,FC Barcelona,0,16/17,9
+221,RCD Espanyol,2,16/17,4
+222,RC Deportivo de Corunha,3,16/17,7
+223,Athletic Bilbao,3,16/17,8
+224,Atlético de Madrid,4,16/17,8
+225,Real Madrid CF,4,16/17,8
+226,Granada CF,4,16/17,1
+227,Sevilla FC,5,16/17,5
+228,Real Bétis,5,16/17,2
+229,SD Eibar,6,16/17,8
+230,FC Villarreal,6,16/17,8
+231,Deportivo Alavés,6,16/17,4
+232,Málaga CF,7,16/17,5
+233,CD Leganés,7,16/17,4
+234,Real Sociedad,7,16/17,8
+235,Real Sporting de Gijón,9,16/17,7
+236,CA Osasuna,9,16/17,6
+237,Celta de Vigo,10,16/17,7
+238,UD Las Palmas,11,16/17,6
+239,Valência CF,13,16/17,6
+240,FC Barcelona,2,17/18,5
+241,SD Eibar,4,17/18,3
+242,Real Bétis,4,17/18,3
+243,Real Madrid CF,4,17/18,10
+244,Getafe CF,4,17/18,12
+245,Atlético de Madrid,4,17/18,5
+246,UD Las Palmas,5,17/18,8
+247,RC Deportivo de Corunha,5,17/18,5
+248,Girona FC,5,17/18,8
+249,Celta de Vigo,5,17/18,3
+250,Valência CF,5,17/18,8
+251,Levante UD,6,17/18,5
+252,RCD Espanyol,6,17/18,3
+253,Athletic Bilbao,6,17/18,8
+254,CD Leganés,7,17/18,3
+255,Málaga CF,7,17/18,6
+256,Real Sociedad,8,17/18,5
+257,FC Villarreal,8,17/18,5
+258,Sevilla FC,8,17/18,5
+259,Deportivo Alavés,10,17/18,3
+260,FC Barcelona,2,18/19,9
+261,Real Sociedad,3,18/19,10
+262,CD Leganés,4,18/19,5
+263,SD Eibar,4,18/19,8
+264,Atlético de Madrid,5,18/19,4
+265,Athletic Bilbao,5,18/19,7
+266,Real Bétis,5,18/19,7
+267,FC Villarreal,5,18/19,6
+268,Deportivo Alavés,6,18/19,3
+269,Sevilla FC,7,18/19,6
+270,Celta de Vigo,7,18/19,7
+271,Getafe CF,7,18/19,6
+272,Girona FC,8,18/19,6
+273,Valência CF,8,18/19,7
+274,Real Madrid CF,8,18/19,9
+275,RCD Espanyol,8,18/19,4
+276,SD Huesca,9,18/19,7
+277,Levante UD,9,18/19,7
+278,Real Valladolid CF,9,18/19,7
+279,Rayo Vallecano,11,18/19,5
+280,Real Madrid CF,2,19/20,11
+281,Atlético de Madrid,4,19/20,8
+282,Sevilla FC,4,19/20,7
+283,CA Osasuna,5,19/20,8
+284,Celta de Vigo,5,19/20,9
+285,Granada CF,5,19/20,5
+286,Getafe CF,6,19/20,7
+287,SD Eibar,6,19/20,10
+288,RCD Espanyol,7,19/20,4
+289,FC Barcelona,7,19/20,6
+290,CD Leganés,7,19/20,5
+291,Athletic Bilbao,7,19/20,10
+292,Levante UD,7,19/20,5
+293,Real Valladolid CF,8,19/20,6
+294,FC Villarreal,9,19/20,11
+295,Real Sociedad,9,19/20,5
+296,Valência CF,9,19/20,8
+297,Real Bétis,11,19/20,7
+298,Deportivo Alavés,14,19/20,6
+299,RCD Mallorca,16,19/20,10
+300,Deportivo Alavés,3,20/21,8
+301,Levante UD,4,20/21,6
+302,Atlético de Madrid,4,20/21,7
+303,SD Huesca,5,20/21,4
+304,FC Barcelona,5,20/21,8
+305,SD Eibar,5,20/21,9
+306,Real Sociedad,5,20/21,12
+307,Athletic Bilbao,6,20/21,5
+308,Sevilla FC,6,20/21,7
+309,Real Valladolid CF,7,20/21,8
+310,Celta de Vigo,8,20/21,7
+311,Real Madrid CF,8,20/21,3
+312,Getafe CF,8,20/21,5
+313,Valência CF,8,20/21,10
+314,CA Osasuna,8,20/21,6
+315,FC Villarreal,9,20/21,13
+316,Cádiz CF,10,20/21,4
+317,Real Bétis,10,20/21,11
+318,Elche CF,10,20/21,3
+319,Granada CF,12,20/21,5
+320,Real Bétis,3,21/22,4
+321,Athletic Bilbao,3,21/22,2
+322,FC Barcelona,3,21/22,5
+323,Getafe CF,4,21/22,4
+324,Sevilla FC,4,21/22,7
+325,RCD Espanyol,5,21/22,4
+326,Real Madrid CF,5,21/22,9
+327,FC Villarreal,5,21/22,6
+328,Real Sociedad,6,21/22,7
+329,Levante UD,6,21/22,5
+330,CA Osasuna,7,21/22,1
+331,Atlético de Madrid,8,21/22,8
+332,Valência CF,8,21/22,7
+333,RCD Mallorca,8,21/22,3
+334,Celta de Vigo,8,21/22,3
+335,Rayo Vallecano,9,21/22,7
+336,Granada CF,9,21/22,8
+337,Deportivo Alavés,9,21/22,7
+338,Elche CF,10,21/22,1
+339,Cádiz CF,13,21/22,6
+340,Real Sociedad,2,22/23,4
+341,Real Bétis,3,22/23,9
+342,Athletic Bilbao,3,22/23,7
+343,FC Barcelona,3,22/23,2
+344,Sevilla FC,3,22/23,5
+345,FC Villarreal,4,22/23,7
+346,CA Osasuna,4,22/23,5
+347,Real Madrid CF,5,22/23,12
+348,Atlético de Madrid,5,22/23,1
+349,Rayo Vallecano,5,22/23,8
+350,Valência CF,5,22/23,8
+351,RCD Espanyol,6,22/23,5
+352,UD Almería,6,22/23,3
+353,RCD Mallorca,7,22/23,5
+354,Girona FC,8,22/23,9
+355,Celta de Vigo,8,22/23,3
+356,Getafe CF,8,22/23,8
+357,Cádiz CF,10,22/23,5
+358,Elche CF,10,22/23,5
+359,Real Valladolid CF,10,22/23,4
